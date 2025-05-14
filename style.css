@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #F4F5FF;
+  font-family: 'Noto Sans Bengali', sans-serif;
+}
+
+.heading-text {
+  text-align: center;
+  font-size: 1.3rem;
+}
+
+.some-words {
+  font-size: 1.3rem;
+  margin: 10px;
+}
+
+.main-content {
+  font-size: 1.2rem;
+}
+
+.main-content article div {
+  border: 2px solid black;
+  border-radius: 10px;
+  /* background: #B2B9FF; */
+  padding: 10px;
+  margin: 15px;
+}
+
+.extreme div {
+  background: #6F0000;
+  color: #fff;
+}
+
+.hard div {
+  background: #FF0000;
+  color: #fff;
+}
+
+.medium div {
+  background: #F6F556;
+}
+
+.easy div {
+  background: #08F709;
+}
